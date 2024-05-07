@@ -22,7 +22,7 @@
 
 <div align="center"><img height="auto" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=rtzeg&theme=black-ice&hide_border=true&stroke=00ff00&background=0D111730&ring=00ff00&fire=f4a70b&currStreakLabel=00ff00" alt="RTZEG" /></div>
   <div align="center">
-    <img alt="visitor badge" src="https://github-readme-activity-graph.cyclic.app/graph?username=rtzeg&theme=react&text_color=00ff00&bg_color=1e1e1e00&title_color=00ff00&line=00ff00&border_color=9199BE&hide_border=true&color=00ff00">
+    <img alt="visitor badge" src="https://img.freepik.com/premium-vector/pixel-heart-or-pixelated-heart-flat-red-icon-for-apps-and-games_662353-832.jpg">
 </div>
 <div align="center">  
   <img width="50%" height="auto" src="https://github-readme-stats.vercel.app/api?username=rtzeg&show_icons=true&count_private=true&hide_border=true&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9&bg_color=1e1e1e00" alt="Shoira github stats" /> 
