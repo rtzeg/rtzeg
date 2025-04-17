@@ -20,7 +20,7 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 </p>
 
-<div align="center"><img height="auto" width="100%" src="https://cdn-icons-png.freepik.com/512/11229/11229335.png" alt="RTZEG" /></div>
+<div align="center"><img height="200px" width="100%" src="https://cdn-icons-png.freepik.com/512/11229/11229335.png" alt="RTZEG" /></div>
   <div align="center">
     <img alt="visitor badge" src="https://img.freepik.com/premium-vector/pixel-heart-or-pixelated-heart-flat-red-icon-for-apps-and-games_662353-832.jpg">
 </div>
