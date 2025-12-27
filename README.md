@@ -67,11 +67,6 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rtzeg&show_icons=true&hide_border=true&title_color=00ff00&icon_color=00ff00&text_color=00ff00&bg_color=00000000&cache_seconds=21600" alt="github stats" />
   <img width="49%" src="https://streak-stats.demolab.com?user=rtzeg&hide_border=true&background=00000000&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideLabels=00ff00&currStreakNum=00ff00&sideNums=00ff00&dates=00ff00" alt="streak stats" />
 </div>
-
-<div align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtzeg&layout=compact&hide_border=true&title_color=00ff00&text_color=00ff00&bg_color=00000000&cache_seconds=21600" alt="top langs" />
-</div>
-
 ---
 
 <!-- ========== PINNED ========== -->
