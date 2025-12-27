@@ -2,7 +2,7 @@
 <h3 align="center">You goddamn right who i am</h3>
 
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=rtzeg&theme=matrix&column=6&margin-w=15&margin-h=15&rank=-?" alt="rtzeg" /> </p>
+<p align="center"> <img src="https://avatars.githubusercontent.com/u/82582174?v=4&size=64" alt="rtzeg" /> </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rtzeg&label=Profile%20views&color=50546C&style=flat" alt="rtzeg" /> </p>
 
 - 🎓 I’m currently learning every day
