@@ -34,12 +34,11 @@
   <a href="https://t.me/rmn_the_creator" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-00ff00?style=for-the-badge&logo=telegram&logoColor=0b0f0b" alt="telegram"/>
   </a>
-  <a href="https://www.instagram.com/menya.zovut.raim.no.ya_roma)" target="_blank">
+  <a href="https://www.instagram.com/menya.zovut.raim.no.ya_roma" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-00ff00?style=for-the-badge&logo=linkedin&logoColor=0b0f0b" alt="instagram"/>
   </a>
 </p>
 
----
 
 <!-- ========== STACK ========== -->
 ## 🧰 Languages & Tools
@@ -64,10 +63,8 @@
 ## 📈 Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rtzeg&show_icons=true&hide_border=true&title_color=00ff00&icon_color=00ff00&text_color=00ff00&bg_color=00000000&cache_seconds=21600" alt="github stats" />
   <img width="49%" src="https://streak-stats.demolab.com?user=rtzeg&hide_border=true&background=00000000&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideLabels=00ff00&currStreakNum=00ff00&sideNums=00ff00&dates=00ff00" alt="streak stats" />
 </div>
----
 
 <!-- ========== PINNED ========== -->
 ## 🚀 Pinned projects
