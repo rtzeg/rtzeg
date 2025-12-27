@@ -28,10 +28,10 @@
 - 📫 Need a project? contact by mail
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:korolt073@gmail.com">
     <img src="https://img.shields.io/badge/Email-00ff00?style=for-the-badge&logo=gmail&logoColor=0b0f0b" alt="email"/>
   </a>
-  <a href="https://t.me/YOUR_TELEGRAM" target="_blank">
+  <a href="https://t.me/rmn_the_creator" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-00ff00?style=for-the-badge&logo=telegram&logoColor=0b0f0b" alt="telegram"/>
   </a>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
@@ -77,14 +77,14 @@
 <!-- ========== PINNED ========== -->
 ## 🚀 Pinned projects
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/rtzeg/yordam">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=rtzeg&repo=yordam&hide_border=true&title_color=00ff00&text_color=00ff00&bg_color=00000000&cache_seconds=21600" alt="yordam repo card" />
+    <img width="49%" src="https://opengraph.githubassets.com/1/rtzeg/yordam" alt="yordam" />
   </a>
-  <a href="https://github.com/rtzeg/REPO_2">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=rtzeg&repo=REPO_2&hide_border=true&title_color=00ff00&text_color=00ff00&bg_color=00000000&cache_seconds=21600" alt="repo 2 card" />
+  <a href="https://github.com/rtzeg/REPO_2](https://github.com/rtzeg/murki">
+    <img width="49%" src="https://opengraph.githubassets.com/1/rtzeg/REPO_2" alt="repo 2" />
   </a>
-</div>
+</p>
 
 ---
 
