@@ -34,8 +34,8 @@
   <a href="https://t.me/rmn_the_creator" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-00ff00?style=for-the-badge&logo=telegram&logoColor=0b0f0b" alt="telegram"/>
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-00ff00?style=for-the-badge&logo=linkedin&logoColor=0b0f0b" alt="linkedin"/>
+  <a href="https://www.instagram.com/menya.zovut.raim.no.ya_roma)" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-00ff00?style=for-the-badge&logo=linkedin&logoColor=0b0f0b" alt="instagram"/>
   </a>
 </p>
 
