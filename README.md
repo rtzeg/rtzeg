@@ -56,27 +56,28 @@
 ---
 
 ## 📈 Stats
+
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rtzeg&show_icons=true&hide_border=true&title_color=00ff00&icon_color=00ff00&text_color=00ff00&bg_color=0d1117" alt="stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=rtzeg&hide_border=true&background=0D1117&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideLabels=00ff00&currStreakNum=00ff00&sideNums=00ff00&dates=00ff00" alt="streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rtzeg&show_icons=true&hide_border=true&theme=transparent&cache_seconds=21600" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=rtzeg&hide_border=true&theme=transparent" />
 </div>
 
 <div align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtzeg&layout=compact&hide_border=true&title_color=00ff00&text_color=00ff00&bg_color=0d1117" alt="top-langs" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtzeg&layout=compact&hide_border=true&theme=transparent&cache_seconds=21600" />
 </div>
 
 ---
 
 ## 🚀 Pinned projects
+
 <div align="center">
   <a href="https://github.com/rtzeg/yordam">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=rtzeg&repo=yordam&hide_border=true&title_color=00ff00&text_color=00ff00&bg_color=0d1117" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=rtzeg&repo=yordam&hide_border=true&theme=transparent&cache_seconds=21600" />
   </a>
-  <a href="https://github.com/rtzeg/REPLACE_WITH_REPO">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=rtzeg&repo=REPLACE_WITH_REPO&hide_border=true&title_color=00ff00&text_color=00ff00&bg_color=0d1117" />
+  <a href="https://github.com/rtzeg/REPO_NAME_HERE">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=rtzeg&repo=REPO_NAME_HERE&hide_border=true&theme=transparent&cache_seconds=21600" />
   </a>
 </div>
-
 ---
 
 <div align="center">
