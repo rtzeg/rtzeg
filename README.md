@@ -81,7 +81,7 @@
   <a href="https://github.com/rtzeg/yordam">
     <img width="49%" src="https://opengraph.githubassets.com/1/rtzeg/yordam" alt="yordam" />
   </a>
-  <a href="https://github.com/rtzeg/REPO_2](https://github.com/rtzeg/murki">
+  <a href="https://github.com/rtzeg/murki">
     <img width="49%" src="https://opengraph.githubassets.com/1/rtzeg/REPO_2" alt="repo 2" />
   </a>
 </p>
